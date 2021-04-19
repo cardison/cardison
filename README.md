@@ -22,4 +22,4 @@
 
 
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=cardison&theme=react-dark)](https://github.com/cardison
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=cardison&theme=react-dark)](https://github.com/cardison)
