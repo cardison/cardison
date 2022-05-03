@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sandethindisa@gmail.com**
 
-- ⚡ Fun fact **“As a kid, I once did this really stupid thing, and it was....**
+- ⚡ Fun fact **“think of all the things you've always wanted to create....**
 
 
 <h3 align="left">Languages and Tools:</h3>
