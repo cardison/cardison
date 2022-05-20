@@ -24,5 +24,3 @@
 
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=cardison&theme=react-dark)](https://github.com/cardison)
-
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/346331?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
