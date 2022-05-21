@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandeth Indisa</h1>
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
-<center>
-![giphy](https://user-images.githubusercontent.com/74986126/169647228-2fb35227-e149-45e1-b294-4757a9de5011.gif)
-</center>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardison&label=Profile%20views&color=0e75b6&style=flat" alt="cardison" /> </p>
 
-
-
-
+![giphy](https://user-images.githubusercontent.com/74986126/169647378-ff5aa5a9-0815-46ae-9e3a-2a278cfd7130.gif)
 
 
 - 🌱 I’m currently learning **Javascript**
