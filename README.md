@@ -2,6 +2,10 @@
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardison&label=Profile%20views&color=0e75b6&style=flat" alt="cardison" /> </p>
+![giphy](https://user-images.githubusercontent.com/74986126/169647195-cf33488b-2cf9-4dbc-bd1f-257b1f861daf.gif)
+
+
+
 
 - 🌱 I’m currently learning **Javascript**
 
