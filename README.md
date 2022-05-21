@@ -3,6 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardison&label=Profile%20views&color=0e75b6&style=flat" alt="cardison" /> </p>
 <div align="center">
+
+  
+<img src="https://user-images.githubusercontent.com/74986126/169664372-0107cd2e-4073-4101-a0d0-bca07e79b58a.gif" width="200px">
+
+  
   
 <img src="https://user-images.githubusercontent.com/74986126/169647378-ff5aa5a9-0815-46ae-9e3a-2a278cfd7130.gif" width="200px">
   
