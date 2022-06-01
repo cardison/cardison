@@ -5,11 +5,10 @@
 <div align="center">
 
   
-<img src="https://user-images.githubusercontent.com/74986126/169664372-0107cd2e-4073-4101-a0d0-bca07e79b58a.gif" width="200px">
+<img src= https://user-images.githubusercontent.com/74986126/171423715-8aee4745-d7b6-4648-8ce0-7fe03b1163bd.gif>
 
   
-  
-<img src="https://user-images.githubusercontent.com/74986126/169647378-ff5aa5a9-0815-46ae-9e3a-2a278cfd7130.gif" width="200px">
+ 
   
 </div>
 
@@ -31,7 +30,7 @@
 
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=cardison&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cardison&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<p><img align="left"  src="https://api.daily.dev/devcards/198213cf0f6049fe9b64961c6074f108.png?r=4qk" width="200" alt="sandeth indisa kongahawatta's Dev Card"/></a>
+<p><img align="center"  src="https://api.daily.dev/devcards/198213cf0f6049fe9b64961c6074f108.png?r=4qk" width="300" alt="sandeth indisa kongahawatta's Dev Card" ></a>
 
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=cardison&theme=react-dark)](https://github.com/cardison)
