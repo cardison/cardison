@@ -30,7 +30,9 @@
 
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=cardison&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cardison&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<p><img align="center"  src="https://api.daily.dev/devcards/198213cf0f6049fe9b64961c6074f108.png?r=4qk" width="300" alt="sandeth indisa kongahawatta's Dev Card" ></a>
+<center><h1> <a herf="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true">Github profile trophy 🏆  </a></h1> </center>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=cardison&theme=react-dark)](https://github.com/cardison)
