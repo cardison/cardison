@@ -30,6 +30,22 @@
 
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=cardison&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cardison&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
+ **📊 this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   17 hrs 35 mins  ████████████████████▒░░░░   81.86 %
+JavaScript   2 hrs           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+CSS          1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+HTML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+```
+
+<!--END_SECTION:waka-->
+if you like what i do, maybe consider buying me a coffee/tea 
+
+<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 <center><h1> <a herf="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true">Github profile trophy 🏆  </a></h1> </center>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
