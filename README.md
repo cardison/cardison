@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sandethindisa@gmail.com**
 
-- ⚡ Fun fact **“think of all the things you've always wanted to create....**
+- ⚡ Fun fact **“first car I ever owned was a red sedan.....**
 
 
 <h3 align="left">Languages and Tools:</h3>
