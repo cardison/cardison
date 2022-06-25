@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sandeth Indisa</h1>
+<h1 align="center">Hi 👋, I'm Sandeth Indisa   </h1>
+
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardison&label=Profile%20views&color=0e75b6&style=flat" alt="cardison" /> </p>
@@ -42,9 +43,13 @@ Other        9 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-if you like what i do, maybe consider buying me a coffee/tea ☕
+if you like what i do, maybe consider buying me a coffee/tea ☕ 
+
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 
 <center><h1> <a herf="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true">Github profile trophy 🏆  </a></h1> </center>
 
@@ -54,7 +59,9 @@ if you like what i do, maybe consider buying me a coffee/tea ☕
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=cardison&theme=react-dark)](https://github.com/cardison)
 
 
-<h1> ✨My Achievements✨ </h1>
+<h1> ✨My Achievements✨      </h1>
+
+![pixel-mona-heart](https://user-images.githubusercontent.com/74986126/175756296-8640831e-4247-453c-9602-31fdd427b1ec.gif)
 
 <table>
 <tr>
@@ -75,3 +82,5 @@ if you like what i do, maybe consider buying me a coffee/tea ☕
 
 </tr>
 </table>
+
+
