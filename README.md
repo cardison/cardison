@@ -61,7 +61,7 @@ if you like what i do, maybe consider buying me a coffee/tea ☕
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=cardison&theme=react-dark)](https://github.com/cardison)
 
 
-<h1> ✨My Achievements✨      </h1>
+<h1> ✨Github Achievements✨      </h1>
 
 ![pixel-mona-heart](https://user-images.githubusercontent.com/74986126/175756296-8640831e-4247-453c-9602-31fdd427b1ec.gif)
 
