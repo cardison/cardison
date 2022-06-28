@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cardison&label=Profile%20views&color=0e75b6&style=flat" alt="cardison" /> </p>
 <div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5719FF&lines=HI+im+cardison;A+professional+web+desingner)](https://git.io/typing-svg)
+
   
 ![jjj](https://user-images.githubusercontent.com/74986126/174085836-aaa68953-a606-4253-ba41-e2fb8bfb60b0.gif)
 
