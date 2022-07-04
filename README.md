@@ -7,12 +7,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5719FF&lines=HI+im+cardison;A+professional+web+desingner)](https://git.io/typing-svg)
 
-  
-![jjj](https://user-images.githubusercontent.com/74986126/174085836-aaa68953-a606-4253-ba41-e2fb8bfb60b0.gif)
+![giphy](https://user-images.githubusercontent.com/74986126/177103049-14428321-34f9-4b08-a0c0-f61222551e0d.gif)
 
-  
- 
-  
+
 </div>
 
 - 🌱 I’m currently learning **Javascript**
