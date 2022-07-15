@@ -82,4 +82,6 @@ if you like what i do, maybe consider buying me a coffee/tea ☕
 =)
 </tr>
 </table>
+<a href="https://github.com/cardison "><img alt="Cute Count" src="https://count.getloli.com/get/@cardison?theme=rule34"/></a>
+</details>
 
