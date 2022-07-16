@@ -79,7 +79,6 @@ if you like what i do, maybe consider buying me a coffee/tea ☕
 <img width="100" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/74986126/175458880-f1f28429-5001-4c0e-bf2a-7dfb7eaba633.png">
 </th>
 
-=)
 </tr>
 </table>
 <a href="https://github.com/cardison "><img alt="Cute Count" src="https://count.getloli.com/get/@cardison?theme=rule34"/></a>
