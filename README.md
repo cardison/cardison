@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer from Sri lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cardison&label=Profile%20views&color=0e75b6&style=flat" alt="cardison" /> </p>
+<p align="center"><a href="https://github.com/cardison "><img alt="Cute Count" src="https://count.getloli.com/get/@cardison?theme=rule34"/></a></p>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5719FF&lines=HI+im+cardison;A+professional+web+desingner)](https://git.io/typing-svg)
@@ -81,6 +81,6 @@ if you like what i do, maybe consider buying me a coffee/tea ☕
 
 </tr>
 </table>
-<a href="https://github.com/cardison "><img alt="Cute Count" src="https://count.getloli.com/get/@cardison?theme=rule34"/></a>
+
 </details>
 
