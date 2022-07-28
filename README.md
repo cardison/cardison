@@ -5,7 +5,6 @@
 <p align="center"><a href="https://github.com/cardison "><img alt="Cute Count" src="https://count.getloli.com/get/@cardison?theme=rule34"/></a></p>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=5719FF&lines=HI+im+cardison;A+professional+web+desingner)](https://git.io/typing-svg)
 
 ![giphy](https://user-images.githubusercontent.com/74986126/177103049-14428321-34f9-4b08-a0c0-f61222551e0d.gif)
 
