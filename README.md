@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sandethindisa@gmail.com**
 
-- ⚡ Fun fact **“What is your dream job?.....**
+- ⚡ Fun fact **“i like movies with plot twist.....**
 
 
 
