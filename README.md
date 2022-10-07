@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 💬 Ask me about **HTML,CSS**
+- 💬 Ask me about **HTML,CSS.bootstrap**
 
 - 📫 How to reach me **sandethindisa@gmail.com**
 
