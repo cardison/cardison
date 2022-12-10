@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeth Indisa   </h1>
 
-<h3 align="center">A passionate frontend developer  </h3>
+<h3 align="center"> I love cats 🐱 </h3>
 
 <p align="center"><a href="https://github.com/cardison "><img alt="Cute Count" src="https://count.getloli.com/get/@cardison?theme=rule34"/></a></p>
 <div align="center">
