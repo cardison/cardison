@@ -33,7 +33,7 @@
 
 ![Brian's github stats](https://github-readme-stats.vercel.app/api?username=cardison&show_icons=true&theme=blue-green) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cardison&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
- **📊 this week i spent my time on:**
+ **📊 This week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```text
