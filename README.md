@@ -50,7 +50,6 @@ if you like what i do, maybe consider buying me a coffee/tea ☕
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<a![68747470733a2f2f6d656469612e74656e6f722e636f6d2f30454e423548755448306741414141692f74726f7068792d62656b65722e676966](https://user-images.githubusercontent.com/74986126/229293331-4de45dcc-1037-49bd-946a-c1d56d6819a0.gif)/a width="150>
 
 
 <center><h1> <a herf="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true">Github profile trophy 🏆  </a></h1> </center>
