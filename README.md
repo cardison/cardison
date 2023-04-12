@@ -62,26 +62,6 @@ if you like what i do, maybe consider buying me a coffee/tea ☕
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=cardison&theme=react-dark)](https://github.com/cardison)
 
 
-<h1> ✨Github Achievements✨      </h1>
-
-![pixel-mona-heart](https://user-images.githubusercontent.com/74986126/175756296-8640831e-4247-453c-9602-31fdd427b1ec.gif)
-
-<table>
-<tr>
-<th> <img width="100" alt="badge-mars-2020-small" src="https://user-images.githubusercontent.com/74986126/175457272-1f32df2d-f56b-49d0-97ed-59c9c0f27267.png"> </th>
-
-<th> <img width="100" alt="arctic-code-vault-contributor-default" src="https://user-images.githubusercontent.com/74986126/175457563-412275d1-b699-4b13-bfba-dbf4fcdcdf85.png"> </th>
-
-<th><img width="100" alt="pull-shark-default" src="https://user-images.githubusercontent.com/74986126/175458357-e7695785-f114-4373-9282-534681ffb5ec.png"> </th>
- <th><img width="100" alt="public-sponsor-default" src="https://user-images.githubusercontent.com/74986126/175458561-58ba436a-c443-464e-ae22-53a739ce75b9.png"> </th>
-<th>
-
-<img width="100" alt="yolo-default" src="https://user-images.githubusercontent.com/74986126/175458774-9ab5563a-2d92-4273-994d-f4028b9514c7.png">
-</th>
-<th>
-<img width="100" alt="galaxy-brain-default" src="https://user-images.githubusercontent.com/74986126/175458880-f1f28429-5001-4c0e-bf2a-7dfb7eaba633.png">
-</th>
-
 </tr>
 </table>
 
