@@ -2,7 +2,7 @@
 
 <h3 align="center"> work smart not hard </h3>
 
-<p align="center"><a href="https://github.com/cardison "><img alt="Cute Count" src="https://count.getloli.com/get/@cardison?theme=rule34"/></a></p>
+<p align="center">
 <div align="center">
  
 
