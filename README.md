@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeth Indisa   </h1>
 
-<h3 align="center"> work smart not hard </h3>
+<h3 align="center"> Programming' is a four-letter word. </h3>
 
 <p align="center">
 <div align="center">
